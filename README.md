@@ -7,7 +7,7 @@ A modern and responsive **User Management Dashboard** built with **React.js**, d
 
 ## 🚀 Live Demo
 
-Add your deployed application link here:
+deployed application link here:
 
 `https://user-management99.netlify.app/`
 
@@ -150,6 +150,6 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-
+<img width="1000" height="600" alt="Screenshot 2026-04-30 223217" src="https://github.com/user-attachments/assets/6fc422f0-c1fd-436e-a410-7ecea7df2484" />
 
 
