@@ -119,7 +119,7 @@ https://dummyjson.com/users
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/user-management-dashboard.git
+git clone https://github.com/deepjaviya/user-management-dashboard.git
 ```
 
 ### Go to Project Folder
