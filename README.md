@@ -1,20 +1,153 @@
-<<<<<<< HEAD
-# React + Vite
+# User Management Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **User Management Dashboard** built with **React.js**, designed to manage user records efficiently through a clean and intuitive interface. The application integrates with the **DummyJSON Users API** and supports full CRUD operations including viewing, searching, filtering, sorting, creating, editing, and deleting users.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Add your deployed application link here:
 
-## Expanding the ESLint configuration
+`https://user-management99.netlify.app/`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# User_management-Dashboard-Assignment
->>>>>>> 045014ecfb7b6cb56c6a578d6b78e2f15be3ee32
+---
+
+## 📌 Features
+
+### User Listing
+
+* Responsive table/card layout
+* Displays avatar, full name, email, phone, company name, and role
+* Action buttons for View, Edit, and Delete
+
+### Search Users
+
+Search users by:
+
+* First Name
+* Last Name
+* Email
+
+### Filters
+
+Filter users by:
+
+* Gender
+* Role
+
+### Add User
+
+* Add new user using modal form
+
+### Edit User
+
+* Edit existing user with pre-filled form
+
+### Delete User
+
+* Confirmation popup before deleting user
+
+### User Details Page
+
+#### Basic Information
+
+* Profile Image
+* Full Name
+* Email
+* Phone
+* Age
+* Gender
+* Role
+
+#### Address Information
+
+* Address Line
+* City
+* State
+* Country
+
+#### Company Information
+
+* Company Name
+* Department
+* Title
+
+#### Additional Information
+
+* Birth Date
+* University
+
+---
+
+## 🎨 UI Features
+
+* Fully Responsive Design
+* Mobile Friendly
+* Clean and Professional Layout
+* Loading States
+* Error Handling
+* Reusable Components
+
+
+---
+
+## 🛠️ Tech Stack
+
+* React.js
+* JavaScript (ES6+)
+* React Router DOM
+* Axios / Fetch API
+* CSS / Tailwind CSS
+* Vite
+
+
+---
+
+## 🌐 API Used
+
+Base URL:
+
+```bash
+https://dummyjson.com/users
+```
+
+---
+
+## ⚙️ Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/your-username/user-management-dashboard.git
+```
+
+### Go to Project Folder
+
+```bash
+cd User_Management_Dashboard
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run Project
+
+```bash
+npm run dev
+```
+
+Application runs on:
+
+```bash
+http://localhost:5173
+```
+
+---
+
+## 📸 Screenshots
+
+
